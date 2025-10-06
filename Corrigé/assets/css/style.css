@@ -166,6 +166,7 @@ h2 {
 
     #menu li {
         padding: 1rem;
+        width: fit-content;
         margin-top: .4rem;
     }
 
